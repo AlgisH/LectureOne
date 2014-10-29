@@ -7,3 +7,4 @@ List of Attendees
 ================
 Ashley Davis - https://github.com/SgtCoDFish
 Dylan Morroll - https://github.com/DylanMorroll
+Algis Hajime Sulcas - https://github.com/AlgisH
